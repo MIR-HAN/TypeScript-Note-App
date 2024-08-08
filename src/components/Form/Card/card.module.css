@@ -1,0 +1,11 @@
+
+.note_card{
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+
+.note_card:hover{
+   transform: translate(10px, -10px);
+   filter: drop-shadow(0 0 20px rgba(255,255,255, 0.3));
+}

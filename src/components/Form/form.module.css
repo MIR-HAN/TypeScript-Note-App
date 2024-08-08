@@ -1,0 +1,4 @@
+.note_card:hover{
+    background: rgb(51, 8, 171);
+    transition: all 3ms;
+}
